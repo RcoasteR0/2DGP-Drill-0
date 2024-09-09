@@ -1,0 +1,82 @@
+import turtle
+
+#김
+turtle.penup()
+turtle.goto(-100, 40)
+turtle.pendown()
+turtle.forward(30)
+turtle.right(90)
+turtle.forward(30)
+
+turtle.penup()
+turtle.goto(-50, 50)
+turtle.pendown()
+turtle.forward(50)
+
+turtle.penup()
+turtle.goto(-80, -10)
+turtle.pendown()
+turtle.forward(40)
+turtle.left(90)
+turtle.forward(40)
+turtle.left(90)
+turtle.forward(40)
+turtle.left(90)
+turtle.forward(40)
+
+#용
+turtle.penup()
+turtle.goto(0, 30)
+turtle.pendown()
+turtle.right(180)
+turtle.circle(20)
+
+turtle.penup()
+turtle.goto(-10, 20)
+turtle.pendown()
+turtle.right(90)
+turtle.forward(20)
+
+turtle.penup()
+turtle.goto(10, 20)
+turtle.pendown()
+turtle.forward(20)
+
+turtle.penup()
+turtle.goto(-20, 0)
+turtle.pendown()
+turtle.left(90)
+turtle.forward(40)
+
+turtle.penup()
+turtle.goto(0, -10)
+turtle.pendown()
+turtle.right(180)
+turtle.circle(20)
+
+#채
+turtle.penup()
+turtle.goto(60, 50)
+turtle.pendown()
+turtle.right(180)
+turtle.forward(30)
+
+turtle.penup()
+turtle.goto(50, 40)
+turtle.pendown()
+turtle.forward(50)
+turtle.right(135)
+turtle.forward(64)
+turtle.forward(-32)
+turtle.left(90)
+turtle.forward(32)
+
+turtle.penup()
+turtle.goto(110, 50)
+turtle.pendown()
+turtle.right(45)
+turtle.forward(50)
+turtle.forward(-25)
+turtle.goto(120, 25)
+turtle.goto(120, 50)
+turtle.goto(120, 0)
